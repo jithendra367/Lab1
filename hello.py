@@ -1,2 +1,2 @@
-print "Hello Jithendra"
+print "Hello Jithendra\n"
 Print "Hello Nagiri"
